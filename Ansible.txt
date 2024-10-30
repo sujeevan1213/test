@@ -1,0 +1,3 @@
+Welcome to ansible playbook
+add my command
+git add all docs
